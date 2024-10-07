@@ -8,5 +8,6 @@ namespace MyFirstApp
 {
     internal class Feature3Calss
     {
+        public int MyProperty { get; set; }
     }
 }
