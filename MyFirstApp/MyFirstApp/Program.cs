@@ -12,6 +12,7 @@ namespace MyFirstApp
         {
             Console.WriteLine("Hello world");
             Console.ReadLine();
+            // new line
         }
     }
 }

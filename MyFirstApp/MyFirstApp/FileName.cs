@@ -8,5 +8,6 @@ namespace MyFirstApp
 {
     internal class FileName
     {
+        public int MyProperty { get; set; }
     }
 }
