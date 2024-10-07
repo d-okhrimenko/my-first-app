@@ -10,7 +10,7 @@ namespace MyFirstApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world - Feature 1 - 000 - fix");
+            Console.WriteLine("Hello world - Feature 1 - 000");
             Console.WriteLine("Hello world - Feature 3");
             Console.ReadLine();
         }
